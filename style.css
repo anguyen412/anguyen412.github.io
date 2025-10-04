@@ -12,7 +12,6 @@ body, h1, p, ul, table {
   }
   
   h1 {
-    color: #2a5d84;
     text-align: center;
     margin-bottom: 20px;
   }
@@ -50,15 +49,10 @@ body, h1, p, ul, table {
     margin: 20px 0;
   }
   
-  th, td {
+  td {
     border: 1px solid #ccc;
     padding: 10px;
     text-align: left;
-  }
-  
-  th {
-    background-color: #ffffff;
-    color: white;
   }
   
   tr:nth-child(even) {
