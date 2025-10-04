@@ -10,6 +10,12 @@ body, h1, p, ul, table {
     font-family: Arial, sans-serif;
     line-height: 1.6;
   }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
   
   h1 {
     text-align: center;
@@ -49,7 +55,7 @@ body, h1, p, ul, table {
     margin: 20px 0;
   }
   
-  td {
+  th, td {
     border: 1px solid #ccc;
     padding: 10px;
     text-align: left;
